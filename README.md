@@ -8,7 +8,7 @@ System Designer | AI & Product Builder
 
 I design systems that turn complexity into clear decisions.
 
-With +10 years of experience in process optimization, UX and delivery,
+With +14 years of experience in process optimization, UX and delivery,
 I now build AI-driven solutions that connect product, technology and human behavior.
 
 I don’t optimize tasks.  

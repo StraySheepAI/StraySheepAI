@@ -8,6 +8,10 @@ System Designer | AI & Product Builder
 
 [![Watch the pitch](https://img.youtube.com/vi/Bo5OPR59Z8s/0.jpg)](https://www.youtube.com/watch?v=Bo5OPR59Z8s)
 
+<img width="441" height="566" alt="SkillPath Flow" src="https://github.com/user-attachments/assets/9f89755f-1882-41c3-90c2-7a593804f761" />
+
+
+
 ⚡ RC Dopazo
 
 System Architect · AI Product Designer · Decision Systems

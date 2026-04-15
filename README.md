@@ -17,7 +17,7 @@ System Architect · AI Product Designer · Decision Systems
 
 I design systems that turn complexity into clear, actionable decisions.
 
-+10 years building and optimizing systems across UX, delivery and operations.
++14 years building and optimizing systems across UX, delivery and operations.
 
 💥 I don’t optimize tasks.
 I redesign how systems think, decide and scale.

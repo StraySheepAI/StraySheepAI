@@ -1,4 +1,13 @@
-🜂 StraySheepAI
+# 🐑 StraySheepAI
+
+System Designer | AI & Product Builder  
+
+---
+
+## 🎥 AI Weekend Pitch (2nd Place)
+
+[![Watch the pitch](https://img.youtube.com/vi/Bo5OPR59Z8s/0.jpg)](https://www.youtube.com/watch?v=Bo5OPR59Z8s)
+
 ⚡ RC Dopazo
 
 System Architect · AI Product Designer · Decision Systems

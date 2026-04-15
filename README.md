@@ -1,5 +1,5 @@
 🜂 StraySheepAI
-⚡ Rocío Dopazo
+⚡ RC Dopazo
 
 System Architect · AI Product Designer · Decision Systems
 
